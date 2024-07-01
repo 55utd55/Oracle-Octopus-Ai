@@ -19,11 +19,11 @@ Predictions are purely probabilistic predictions and may not reflect the actual 
 * Then you can use the project by following the steps in the video.
 ## on Local
 * If you want to run it locally, before download file https://huggingface.co/55utd55/oracle-octopus-ai/blob/main/mssonuc-models.zip
-* Run the command below and then you can use it by watching the youtube video. \
+* Run the command below and then you can use it by watching the youtube video.
 * Open the Anaconda Prompt
-`conda create -n oracle-octopus-ai python=3.9`
-`pip install tensorflow[and-cuda]`
-`pip install -r requirements.txt`
+* `conda create -n oracle-octopus-ai python=3.9`
+* `pip install tensorflow[and-cuda]`
+* `pip install -r requirements.txt`
 
 ## English Video
 
